@@ -1,0 +1,4 @@
+ISLA AUTÓNOMA - versión instalable (PWA)
+Sube esta carpeta a un hosting con https (GitHub Pages, Netlify, Cloudflare Pages).
+Abre la dirección en Chrome (Android o PC) y elige "Instalar app" / "Añadir a pantalla de inicio".
+Funciona sin conexión después de la primera carga.
